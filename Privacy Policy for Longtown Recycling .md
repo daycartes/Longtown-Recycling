@@ -1,5 +1,6 @@
 # Longtown-Recycling
 A Timetable showing dates for recycling in Longtown Cumbria
+
 Privacy Policy for the App "Longtown Recycling"
 Last updated: April 2nd, 2024
 
