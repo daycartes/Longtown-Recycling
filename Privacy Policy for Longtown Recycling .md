@@ -9,11 +9,12 @@ The Application is a mobile Android application intended to inform you of the da
 
 What information does the Application obtain and how is it used?
 User Provided Information
+
 The Application does not require any user registration. The Application does not require the user to provide any personal information.
 
-There is no User Provided Data as the App is read only.
+There is no User Provided Data as the Application is read only.
 
-All the Apps details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
+All the Application's details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
 
 Automatically Collected Information
 The Application does not collect any information automatically.
@@ -27,13 +28,13 @@ Do third parties see and/or have access to information obtained by the Applicati
 Not applicable since the Application does not collect any information automatically.
 
 What are my opt-out rights?
-You can easily delete the App by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can easily delete the Application by uninstalling the Application from your mobile device. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
 
 Data Retention Policy, Managing Your Information
-This Application does not automatically collect, share nor retain any information. All the Apps details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
+This Application does not automatically collect, share nor retain any information. All the Application's details are only stored locally on your mobile device, within the Application private folder, following Android’s security best practices.
 
 Children
-Our Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13. The App is aimed at householders for their use in knowing when to recycle their waste.
+The App is aimed at householders for their use in knowing when to recycle their waste, therefore the Application does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. We do not use the Application to knowingly solicit data from or market to children under the age of 13. 
 
 Security
 We are concerned about safeguarding the confidentiality of your information stored locally on your mobile device.
@@ -45,7 +46,7 @@ In order to ensure an optimal security, you shall regularly install any Applicat
 We also advise you to regularly check for any Android OS update(s) that could be available and to enable automatic updates.
 
 Changes
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy at https://timetocount.antoineauger.fr/privacy.html and update the "Last updated" date at the top of this Privacy Policy.
+This Privacy Policy may be updated from time to time for any reason. Any updates will be written in line with any requirements laid down by Google/Android
 
 Please be aware that, although we endeavour to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches (e.g., a zero-day attack targeting mobile Operating System – OS).
 
