@@ -6,7 +6,7 @@ Last updated: April 2nd, 2024
 
 This privacy policy governs your use of the software application “Longtown Recycling” (later referred as the/this “Application”) for Android™ mobile devices that was created by Andrew Tyler.
 
-The Application is a mobile Android application intended to inform you of the dates of recycling and other information provided by the local council in an easily readable format.
+The Application is a mobile Android application intended to inform you of the dates of recycling and other information provided by me in an easily readable format.
 
 What information does the Application obtain and how is it used?
 User Provided Information
