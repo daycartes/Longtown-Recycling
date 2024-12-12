@@ -3,8 +3,11 @@ Privacy Policy for the App "Longtown Recycling" Last updated: December 12 2024
 This privacy policy governs your use of the software application “Longtown Recycling” (later referred as the/this “Application”) for Android™ mobile devices that was created by Andrew Tyler.
 
 The Application is a mobile Android application intended to inform you of the dates of recycling and other information provided by me in an easily readable format.
+
 The app has no affiliation with any government department.
+
 The information in this app is taken from the Cumberland council website and is reproduced here so that the information you need can be found quickly and easily. 
+
 The app does not represent any association with Cumberland Council or any other council
 
 What information does the Application obtain and how is it used? 
